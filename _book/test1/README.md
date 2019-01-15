@@ -36,7 +36,7 @@ git地址 ： https://github.com/babykylin/babykylin_scmj
 
   
 
-3、官方示例![](D:\book1\image\jiaocheng.png)
+3、官方示例![](../image/jiaocheng.png)
 
 打开编辑器
 
