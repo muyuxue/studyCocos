@@ -50,5 +50,20 @@ java window 10 环境配置，按照<http://www.runoob.com/w3cnote/windows10-jav
 
 完成一个sdk的构建，
 
+4：编辑器安装插件     打开编辑器 ->扩展->扩展商店  
+
+![](D:\book1\image\chajianCC-1.png)
 
 
+
+![](D:\book1\image\chajianCC-2.png)
+
+![](D:\book1\image\chajian-CC-3.png)
+
+
+
+vs code 安装插件
+
+安装步骤![](D:\book1\image\安装步骤1.png)
+
+安装插件![](D:\book1\image\chajian-code1.png)
